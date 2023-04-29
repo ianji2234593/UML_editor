@@ -33,6 +33,12 @@
 
 更詳細的規格, [請參閱此檔案](./document/UML%20editor%20requirement%20-%20use%20case%20format.pdf)
 
+## Design Pattern
+- Singleton: 單一的畫布(UML canvas)
+- Strategy: 按鈕行為(選擇物件/移動物件、組成/解除 群組物件、更改物件名稱、創建物件、創建connection line)
+- Composite: 群組物件(Class、Usecase)
+
+
 ## Class Diagram
 
 ![class_diagram.png](./document/UML.class_diagram.png)
